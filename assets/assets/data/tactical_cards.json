@@ -1,0 +1,12 @@
+[
+  { "id": "offloadpass_1", "kind": "offloadPass" },
+  { "id": "offloadpass_2", "kind": "offloadPass" },
+  { "id": "handoff_1", "kind": "handoff" },
+  { "id": "handoff_2", "kind": "handoff" },
+  { "id": "kick_1", "kind": "kick" },
+  { "id": "kick_2", "kind": "kick" },
+  { "id": "kick_3", "kind": "kick" },
+  { "id": "blindside_1", "kind": "blindsideAttack" },
+  { "id": "blindside_2", "kind": "blindsideAttack" },
+  { "id": "blindside_3", "kind": "blindsideAttack" }
+]
